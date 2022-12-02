@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AQMS_IOTAZURE_API.props" />
+</Project>

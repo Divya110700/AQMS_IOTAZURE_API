@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jCYTFLbUFzwKflCqxbfF4DtdgOR5IJxMVV9fkTpNuVE=",
+  "Source": "AQMS_IOTAZURE_API",
+  "BasePath": "_content/AQMS_IOTAZURE_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
